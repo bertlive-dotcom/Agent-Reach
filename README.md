@@ -290,6 +290,7 @@ agent-reach uninstall --dry-run
 # 只删 skill 文件，保留 token 配置（重装时用）
 agent-reach uninstall --keep-config
 ```
+agent-reach doctor 
 
 卸载 Python 包本身：`pip uninstall agent-reach`
 
